@@ -1,2 +1,2 @@
 # AiDPublisher
-Snippe to download reports from "Aksjemarked i dag" from DNB 
+Snippet to download reports from "Aksjemarked i dag" from DNB 
